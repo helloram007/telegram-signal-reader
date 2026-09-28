@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "crates/telegram-worker",
+    "crates/api",
+    "crates/common",
+]
+
+resolver = "3"
+
